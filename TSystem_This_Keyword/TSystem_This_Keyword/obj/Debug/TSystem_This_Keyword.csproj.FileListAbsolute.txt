@@ -1,0 +1,8 @@
+C:\Users\niles\source\repos\Aniket Sir\TSystem_This_Keyword\TSystem_This_Keyword\bin\Debug\TSystem_This_Keyword.exe.config
+C:\Users\niles\source\repos\Aniket Sir\TSystem_This_Keyword\TSystem_This_Keyword\bin\Debug\TSystem_This_Keyword.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_This_Keyword\TSystem_This_Keyword\bin\Debug\TSystem_This_Keyword.pdb
+C:\Users\niles\source\repos\Aniket Sir\TSystem_This_Keyword\TSystem_This_Keyword\obj\Debug\TSystem_This_Keyword.csproj.AssemblyReference.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_This_Keyword\TSystem_This_Keyword\obj\Debug\TSystem_This_Keyword.csproj.SuggestedBindingRedirects.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_This_Keyword\TSystem_This_Keyword\obj\Debug\TSystem_This_Keyword.csproj.CoreCompileInputs.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_This_Keyword\TSystem_This_Keyword\obj\Debug\TSystem_This_Keyword.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_This_Keyword\TSystem_This_Keyword\obj\Debug\TSystem_This_Keyword.pdb

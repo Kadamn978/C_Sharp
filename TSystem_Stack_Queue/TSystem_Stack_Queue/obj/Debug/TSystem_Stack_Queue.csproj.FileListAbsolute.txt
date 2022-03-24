@@ -1,0 +1,8 @@
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Stack_Queue\TSystem_Stack_Queue\bin\Debug\TSystem_Stack_Queue.exe.config
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Stack_Queue\TSystem_Stack_Queue\bin\Debug\TSystem_Stack_Queue.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Stack_Queue\TSystem_Stack_Queue\bin\Debug\TSystem_Stack_Queue.pdb
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Stack_Queue\TSystem_Stack_Queue\obj\Debug\TSystem_Stack_Queue.csproj.AssemblyReference.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Stack_Queue\TSystem_Stack_Queue\obj\Debug\TSystem_Stack_Queue.csproj.SuggestedBindingRedirects.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Stack_Queue\TSystem_Stack_Queue\obj\Debug\TSystem_Stack_Queue.csproj.CoreCompileInputs.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Stack_Queue\TSystem_Stack_Queue\obj\Debug\TSystem_Stack_Queue.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Stack_Queue\TSystem_Stack_Queue\obj\Debug\TSystem_Stack_Queue.pdb

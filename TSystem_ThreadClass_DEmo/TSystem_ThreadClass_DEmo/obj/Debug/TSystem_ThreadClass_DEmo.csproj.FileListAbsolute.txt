@@ -1,0 +1,8 @@
+C:\Users\niles\source\repos\Aniket Sir\TSystem_ThreadClass_DEmo\TSystem_ThreadClass_DEmo\bin\Debug\TSystem_ThreadClass_DEmo.exe.config
+C:\Users\niles\source\repos\Aniket Sir\TSystem_ThreadClass_DEmo\TSystem_ThreadClass_DEmo\bin\Debug\TSystem_ThreadClass_DEmo.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_ThreadClass_DEmo\TSystem_ThreadClass_DEmo\bin\Debug\TSystem_ThreadClass_DEmo.pdb
+C:\Users\niles\source\repos\Aniket Sir\TSystem_ThreadClass_DEmo\TSystem_ThreadClass_DEmo\obj\Debug\TSystem_ThreadClass_DEmo.csproj.AssemblyReference.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_ThreadClass_DEmo\TSystem_ThreadClass_DEmo\obj\Debug\TSystem_ThreadClass_DEmo.csproj.SuggestedBindingRedirects.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_ThreadClass_DEmo\TSystem_ThreadClass_DEmo\obj\Debug\TSystem_ThreadClass_DEmo.csproj.CoreCompileInputs.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_ThreadClass_DEmo\TSystem_ThreadClass_DEmo\obj\Debug\TSystem_ThreadClass_DEmo.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_ThreadClass_DEmo\TSystem_ThreadClass_DEmo\obj\Debug\TSystem_ThreadClass_DEmo.pdb

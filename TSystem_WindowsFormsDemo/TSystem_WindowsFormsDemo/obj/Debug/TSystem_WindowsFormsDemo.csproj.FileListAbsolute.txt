@@ -1,0 +1,12 @@
+C:\Users\niles\source\repos\Aniket Sir\TSystem_WindowsFormsDemo\TSystem_WindowsFormsDemo\bin\Debug\TSystem_WindowsFormsDemo.exe.config
+C:\Users\niles\source\repos\Aniket Sir\TSystem_WindowsFormsDemo\TSystem_WindowsFormsDemo\bin\Debug\TSystem_WindowsFormsDemo.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_WindowsFormsDemo\TSystem_WindowsFormsDemo\bin\Debug\TSystem_WindowsFormsDemo.pdb
+C:\Users\niles\source\repos\Aniket Sir\TSystem_WindowsFormsDemo\TSystem_WindowsFormsDemo\obj\Debug\TSystem_WindowsFormsDemo.csproj.AssemblyReference.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_WindowsFormsDemo\TSystem_WindowsFormsDemo\obj\Debug\TSystem_WindowsFormsDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_WindowsFormsDemo\TSystem_WindowsFormsDemo\obj\Debug\TSystem_WindowsFormsDemo.Form1.resources
+C:\Users\niles\source\repos\Aniket Sir\TSystem_WindowsFormsDemo\TSystem_WindowsFormsDemo\obj\Debug\TSystem_WindowsFormsDemo.Properties.Resources.resources
+C:\Users\niles\source\repos\Aniket Sir\TSystem_WindowsFormsDemo\TSystem_WindowsFormsDemo\obj\Debug\TSystem_WindowsFormsDemo.csproj.GenerateResource.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_WindowsFormsDemo\TSystem_WindowsFormsDemo\obj\Debug\TSystem_WindowsFormsDemo.csproj.CoreCompileInputs.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_WindowsFormsDemo\TSystem_WindowsFormsDemo\obj\Debug\TSystem_WindowsFormsDemo.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_WindowsFormsDemo\TSystem_WindowsFormsDemo\obj\Debug\TSystem_WindowsFormsDemo.pdb
+C:\Users\niles\source\repos\Aniket Sir\TSystem_WindowsFormsDemo\TSystem_WindowsFormsDemo\obj\Debug\TSystem_WindowsFormsDemo.Form2.resources
