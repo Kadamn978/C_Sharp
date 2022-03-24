@@ -1,0 +1,8 @@
+C:\Users\niles\source\repos\Aniket Sir\TSystem_OutKeyword\TSystem_OutKeyword\bin\Debug\TSystem_OutKeyword.exe.config
+C:\Users\niles\source\repos\Aniket Sir\TSystem_OutKeyword\TSystem_OutKeyword\bin\Debug\TSystem_OutKeyword.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_OutKeyword\TSystem_OutKeyword\bin\Debug\TSystem_OutKeyword.pdb
+C:\Users\niles\source\repos\Aniket Sir\TSystem_OutKeyword\TSystem_OutKeyword\obj\Debug\TSystem_OutKeyword.csproj.AssemblyReference.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_OutKeyword\TSystem_OutKeyword\obj\Debug\TSystem_OutKeyword.csproj.SuggestedBindingRedirects.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_OutKeyword\TSystem_OutKeyword\obj\Debug\TSystem_OutKeyword.csproj.CoreCompileInputs.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_OutKeyword\TSystem_OutKeyword\obj\Debug\TSystem_OutKeyword.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_OutKeyword\TSystem_OutKeyword\obj\Debug\TSystem_OutKeyword.pdb

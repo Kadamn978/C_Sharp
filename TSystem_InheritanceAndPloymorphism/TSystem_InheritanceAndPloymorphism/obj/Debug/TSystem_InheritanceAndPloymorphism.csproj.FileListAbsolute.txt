@@ -1,0 +1,8 @@
+C:\Users\niles\source\repos\Aniket Sir\TSystem_InheritanceAndPloymorphism\TSystem_InheritanceAndPloymorphism\obj\Debug\TSystem_InheritanceAndPloymorphism.csproj.AssemblyReference.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_InheritanceAndPloymorphism\TSystem_InheritanceAndPloymorphism\obj\Debug\TSystem_InheritanceAndPloymorphism.csproj.SuggestedBindingRedirects.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_InheritanceAndPloymorphism\TSystem_InheritanceAndPloymorphism\obj\Debug\TSystem_InheritanceAndPloymorphism.csproj.CoreCompileInputs.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_InheritanceAndPloymorphism\TSystem_InheritanceAndPloymorphism\bin\Debug\TSystem_InheritanceAndPloymorphism.exe.config
+C:\Users\niles\source\repos\Aniket Sir\TSystem_InheritanceAndPloymorphism\TSystem_InheritanceAndPloymorphism\bin\Debug\TSystem_InheritanceAndPloymorphism.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_InheritanceAndPloymorphism\TSystem_InheritanceAndPloymorphism\bin\Debug\TSystem_InheritanceAndPloymorphism.pdb
+C:\Users\niles\source\repos\Aniket Sir\TSystem_InheritanceAndPloymorphism\TSystem_InheritanceAndPloymorphism\obj\Debug\TSystem_InheritanceAndPloymorphism.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_InheritanceAndPloymorphism\TSystem_InheritanceAndPloymorphism\obj\Debug\TSystem_InheritanceAndPloymorphism.pdb
