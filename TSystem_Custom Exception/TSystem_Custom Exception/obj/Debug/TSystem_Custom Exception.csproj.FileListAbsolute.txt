@@ -1,0 +1,8 @@
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Custom Exception\TSystem_Custom Exception\bin\Debug\TSystem_Custom Exception.exe.config
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Custom Exception\TSystem_Custom Exception\bin\Debug\TSystem_Custom Exception.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Custom Exception\TSystem_Custom Exception\bin\Debug\TSystem_Custom Exception.pdb
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Custom Exception\TSystem_Custom Exception\obj\Debug\TSystem_Custom Exception.csproj.AssemblyReference.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Custom Exception\TSystem_Custom Exception\obj\Debug\TSystem_Custom Exception.csproj.SuggestedBindingRedirects.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Custom Exception\TSystem_Custom Exception\obj\Debug\TSystem_Custom Exception.csproj.CoreCompileInputs.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Custom Exception\TSystem_Custom Exception\obj\Debug\TSystem_Custom Exception.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Custom Exception\TSystem_Custom Exception\obj\Debug\TSystem_Custom Exception.pdb

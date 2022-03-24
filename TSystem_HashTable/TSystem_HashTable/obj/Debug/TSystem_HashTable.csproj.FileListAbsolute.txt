@@ -1,0 +1,8 @@
+C:\Users\niles\source\repos\Aniket Sir\TSystem_HashTable\TSystem_HashTable\bin\Debug\TSystem_HashTable.exe.config
+C:\Users\niles\source\repos\Aniket Sir\TSystem_HashTable\TSystem_HashTable\bin\Debug\TSystem_HashTable.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_HashTable\TSystem_HashTable\bin\Debug\TSystem_HashTable.pdb
+C:\Users\niles\source\repos\Aniket Sir\TSystem_HashTable\TSystem_HashTable\obj\Debug\TSystem_HashTable.csproj.AssemblyReference.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_HashTable\TSystem_HashTable\obj\Debug\TSystem_HashTable.csproj.SuggestedBindingRedirects.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_HashTable\TSystem_HashTable\obj\Debug\TSystem_HashTable.csproj.CoreCompileInputs.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_HashTable\TSystem_HashTable\obj\Debug\TSystem_HashTable.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_HashTable\TSystem_HashTable\obj\Debug\TSystem_HashTable.pdb

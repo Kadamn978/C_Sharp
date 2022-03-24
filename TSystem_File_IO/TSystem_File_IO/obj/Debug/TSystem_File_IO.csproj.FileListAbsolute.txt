@@ -1,0 +1,11 @@
+C:\Users\niles\source\repos\Aniket Sir\TSystem_File_IO\TSystem_File_IO\bin\Debug\TSystem_File_IO.exe.config
+C:\Users\niles\source\repos\Aniket Sir\TSystem_File_IO\TSystem_File_IO\bin\Debug\TSystem_File_IO.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_File_IO\TSystem_File_IO\bin\Debug\TSystem_File_IO.pdb
+C:\Users\niles\source\repos\Aniket Sir\TSystem_File_IO\TSystem_File_IO\obj\Debug\TSystem_File_IO.csproj.AssemblyReference.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_File_IO\TSystem_File_IO\obj\Debug\TSystem_File_IO.csproj.SuggestedBindingRedirects.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_File_IO\TSystem_File_IO\obj\Debug\TSystem_File_IO.Form1.resources
+C:\Users\niles\source\repos\Aniket Sir\TSystem_File_IO\TSystem_File_IO\obj\Debug\TSystem_File_IO.Properties.Resources.resources
+C:\Users\niles\source\repos\Aniket Sir\TSystem_File_IO\TSystem_File_IO\obj\Debug\TSystem_File_IO.csproj.GenerateResource.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_File_IO\TSystem_File_IO\obj\Debug\TSystem_File_IO.csproj.CoreCompileInputs.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_File_IO\TSystem_File_IO\obj\Debug\TSystem_File_IO.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_File_IO\TSystem_File_IO\obj\Debug\TSystem_File_IO.pdb

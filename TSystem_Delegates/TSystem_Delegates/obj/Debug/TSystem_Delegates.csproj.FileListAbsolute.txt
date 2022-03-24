@@ -1,0 +1,8 @@
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Delegates\TSystem_Delegates\bin\Debug\TSystem_Delegates.exe.config
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Delegates\TSystem_Delegates\bin\Debug\TSystem_Delegates.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Delegates\TSystem_Delegates\bin\Debug\TSystem_Delegates.pdb
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Delegates\TSystem_Delegates\obj\Debug\TSystem_Delegates.csproj.AssemblyReference.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Delegates\TSystem_Delegates\obj\Debug\TSystem_Delegates.csproj.SuggestedBindingRedirects.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Delegates\TSystem_Delegates\obj\Debug\TSystem_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Delegates\TSystem_Delegates\obj\Debug\TSystem_Delegates.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Delegates\TSystem_Delegates\obj\Debug\TSystem_Delegates.pdb

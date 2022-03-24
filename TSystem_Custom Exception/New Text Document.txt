@@ -1,0 +1,17 @@
+//Calculation c = new Calculation();
+            //MyDelegate mydel = new MyDelegate(c.Addition);
+            //mydel += new MyDelegate(c.Subtraction);
+            //mydel += new MyDelegate(c.Multiplication);
+            //Delegate[] list = mydel.GetInvocationList();
+            //foreach (Delegate item in list)
+            //{
+            //    Console.WriteLine(item.Method);
+            //    Console.WriteLine(item.DynamicInvoke(30, 12));
+            //}
+            //Console.WriteLine();
+            //mydel -= new MyDelegate(c.Subtraction);
+            //foreach (Delegate item in list)
+            //{
+            //    Console.WriteLine(item.Method);
+            //    Console.WriteLine(item.DynamicInvoke(30, 12));
+            //}

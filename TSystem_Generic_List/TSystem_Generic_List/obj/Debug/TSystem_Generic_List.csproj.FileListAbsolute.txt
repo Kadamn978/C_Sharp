@@ -1,0 +1,8 @@
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Generic_List\TSystem_Generic_List\bin\Debug\TSystem_Generic_List.exe.config
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Generic_List\TSystem_Generic_List\bin\Debug\TSystem_Generic_List.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Generic_List\TSystem_Generic_List\bin\Debug\TSystem_Generic_List.pdb
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Generic_List\TSystem_Generic_List\obj\Debug\TSystem_Generic_List.csproj.AssemblyReference.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Generic_List\TSystem_Generic_List\obj\Debug\TSystem_Generic_List.csproj.SuggestedBindingRedirects.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Generic_List\TSystem_Generic_List\obj\Debug\TSystem_Generic_List.csproj.CoreCompileInputs.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Generic_List\TSystem_Generic_List\obj\Debug\TSystem_Generic_List.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_Generic_List\TSystem_Generic_List\obj\Debug\TSystem_Generic_List.pdb

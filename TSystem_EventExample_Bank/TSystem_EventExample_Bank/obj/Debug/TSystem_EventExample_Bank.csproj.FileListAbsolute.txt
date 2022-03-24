@@ -1,0 +1,7 @@
+C:\Users\niles\source\repos\Aniket Sir\TSystem_EventExample_Bank\TSystem_EventExample_Bank\obj\Debug\TSystem_EventExample_Bank.csproj.AssemblyReference.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_EventExample_Bank\TSystem_EventExample_Bank\obj\Debug\TSystem_EventExample_Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_EventExample_Bank\TSystem_EventExample_Bank\obj\Debug\TSystem_EventExample_Bank.csproj.CoreCompileInputs.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_EventExample_Bank\TSystem_EventExample_Bank\bin\Debug\TSystem_EventExample_Bank.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_EventExample_Bank\TSystem_EventExample_Bank\bin\Debug\TSystem_EventExample_Bank.pdb
+C:\Users\niles\source\repos\Aniket Sir\TSystem_EventExample_Bank\TSystem_EventExample_Bank\obj\Debug\TSystem_EventExample_Bank.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_EventExample_Bank\TSystem_EventExample_Bank\obj\Debug\TSystem_EventExample_Bank.pdb

@@ -1,0 +1,8 @@
+C:\Users\niles\source\repos\Aniket Sir\TSystem_2D_ARRAY\TSystem_2D_ARRAY\bin\Debug\TSystem_2D_ARRAY.exe.config
+C:\Users\niles\source\repos\Aniket Sir\TSystem_2D_ARRAY\TSystem_2D_ARRAY\bin\Debug\TSystem_2D_ARRAY.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_2D_ARRAY\TSystem_2D_ARRAY\bin\Debug\TSystem_2D_ARRAY.pdb
+C:\Users\niles\source\repos\Aniket Sir\TSystem_2D_ARRAY\TSystem_2D_ARRAY\obj\Debug\TSystem_2D_ARRAY.csproj.AssemblyReference.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_2D_ARRAY\TSystem_2D_ARRAY\obj\Debug\TSystem_2D_ARRAY.csproj.SuggestedBindingRedirects.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_2D_ARRAY\TSystem_2D_ARRAY\obj\Debug\TSystem_2D_ARRAY.csproj.CoreCompileInputs.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_2D_ARRAY\TSystem_2D_ARRAY\obj\Debug\TSystem_2D_ARRAY.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_2D_ARRAY\TSystem_2D_ARRAY\obj\Debug\TSystem_2D_ARRAY.pdb

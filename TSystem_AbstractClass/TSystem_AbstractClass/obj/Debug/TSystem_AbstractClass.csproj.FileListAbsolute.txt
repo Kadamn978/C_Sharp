@@ -1,0 +1,8 @@
+C:\Users\niles\source\repos\Aniket Sir\TSystem_AbstractClass\TSystem_AbstractClass\bin\Debug\TSystem_AbstractClass.exe.config
+C:\Users\niles\source\repos\Aniket Sir\TSystem_AbstractClass\TSystem_AbstractClass\bin\Debug\TSystem_AbstractClass.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_AbstractClass\TSystem_AbstractClass\bin\Debug\TSystem_AbstractClass.pdb
+C:\Users\niles\source\repos\Aniket Sir\TSystem_AbstractClass\TSystem_AbstractClass\obj\Debug\TSystem_AbstractClass.csproj.AssemblyReference.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_AbstractClass\TSystem_AbstractClass\obj\Debug\TSystem_AbstractClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_AbstractClass\TSystem_AbstractClass\obj\Debug\TSystem_AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\niles\source\repos\Aniket Sir\TSystem_AbstractClass\TSystem_AbstractClass\obj\Debug\TSystem_AbstractClass.exe
+C:\Users\niles\source\repos\Aniket Sir\TSystem_AbstractClass\TSystem_AbstractClass\obj\Debug\TSystem_AbstractClass.pdb
